@@ -1,0 +1,17 @@
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\CVM.exe
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.csprojAssemblyReference.cache
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.AssemblyInfoInputs.cache
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.AssemblyInfo.cs
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\RestSharp.dll
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.csproj.CopyComplete
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\CVM.deps.json
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\CVM.runtimeconfig.json
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\CVM.runtimeconfig.dev.json
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\CVM.dll
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\CVM.pdb
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.dll
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.pdb
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.genruntimeconfig.cache
+E:\_dev\CVM\CVM\CVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\_dev\CVM\CVM\CVM\obj\Debug\netcoreapp3.1\CVM.csproj.CoreCompileInputs.cache
